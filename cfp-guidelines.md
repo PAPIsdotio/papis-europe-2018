@@ -1,24 +1,24 @@
-4th International Conference on Predictive Applications and APIs — October 24-25, 2017 - Boston
+# Call for Proposals — PAPIs Europe (April 5-6, 2018 - London)
 
-[papis.io/2017](http://www.papis.io/2017)
+Real-World Machine Learning Stories
+
+[papis.io/europe](http://www.papis.io/europe)
 
 ## Key dates
 
-1. ~~July 9 (midnight, Boston time): Call for Proposals closes~~
-1. ~~September 24: Lightning Talk proposal deadline~~
+1. July 9 (midnight, Boston time): Call for Proposals closes
+1. September 24: Lightning Talk proposal deadline
 1. October 5 (midnight): AI Startup Battle application deadline
 1. October 10: Selection of startups due
-1. October 24-25: Conference takes place in Boston
+1. October 24-25: Conference takes place in London
 
 Our main call for proposals ended on July 9 but we'll be accepting late proposals, as well as Lighting Talk proposals, until September 24.
 
-If you have not heard about the status of your submission, please [contact us](mailto:cfp-boston@papis.mailclark.ai).
+If you have not heard about the status of your submission, please [contact us](mailto:cfp-europe@papis.mailclark.ai).
 
-## [Sign up here to get updates!](http://www.papis.io/2017#updates)
+## [Sign up here to get updates!](http://www.papis.io/#updates)
 
 ## Overview
-
-### Call for Proposals
 
 We are calling for proposals of non-commercial presentations, contributed by the community. Proposals are peer reviewed by our Program Committee.
 
@@ -26,30 +26,19 @@ This year we are specifically aiming to **increase the number of female speakers
 
 Please read the guidelines below and click on the Submit button on the right to submit your proposals.
 
-### Call for Sponsors
+**Call for Sponsors** (please note that this is separate from the Call for Proposals): You can secure a speaking slot and a booth in the breakout area by becoming a sponsor. Please see [papis.io/sponsoring](http://www.papis.io/sponsoring) for more information or contact us at [sponsoring@papis.io](mailto:sponsoring@papis.io).
 
-(Please note that this is separate from the Call for Proposals)
-
-You can secure a speaking slot and a booth in the breakout area by becoming a sponsor. Please see [papis.io/sponsoring](http://www.papis.io/sponsoring) for more information or contact us at [sponsoring@papis.io](mailto:sponsoring@papis.io).
-
-### AI Startup Battle
-
-We are calling for innovative startups that use ML and AI at their core, to compete in our unique startup competition where the jury is an AI.
-
-See more [here](http://www.papis.io/2017#startup-battle-boston-2017-section).
-
+**AI Startup Battle**: We are calling for innovative startups that use ML and AI at their core, to compete in our unique startup competition where the jury is an AI.
 
 ---------------------------------------
 
+Table of contents:
 
-# Call for Proposals: Guidelines
+- [About the conference
+- [What we're looking for
+- [How do I write a good proposal?
+- [Filling in the proposal form
 
-* [About the conference](#about)
-* [What we're looking for](#what)
-* [How do I write a good proposal?](#how)
-* [Filling in the proposal form](#proposal-form)
-
-<a name="about"></a>
 ## About the conference
 
 PAPIs '17 is the 4th International Conference on Predictive Applications and APIs, returning to Boston on October 24-25, 2017 and featuring technical presentations, business talks, hands-on tutorials and demos (tools, use cases).
@@ -58,22 +47,20 @@ PAPIs is a series of independent community conferences, dedicated to the applica
 
 > “PAPIs is really about bringing machine learning into use” — Danny Lange, VP of AI and ML at Unity
 
-**Please read these guidelines all the way through** for the best chance of having your proposal selected. If you have questions or concerns about anything you see here, please don’t hesitate to email us at [cfp-boston@papis.mailclark.ai](mailto:cfp-boston@papis.mailclark.ai). We’re looking forward to receiving your best proposals!
+**Please read these guidelines all the way through*- for the best chance of having your proposal selected. If you have questions or concerns about anything you see here, please don’t hesitate to email us at [cfp-boston@papis.mailclark.ai](mailto:cfp-boston@papis.mailclark.ai). We’re looking forward to receiving your best proposals!
 
-
-<a name="what"></a>
 ## 1. What we're looking for
 
 Presentations at PAPIs are 20-minute long, plus 5 minutes for Q&A. It may seem like a short time, but it allows for dynamic and focused talks that keep the audience engaged.
 
 We'd like to hear about:
 
-* Exciting and innovative ML use cases
-* Challenges and lessons learnt in integrating ML into various applications / processes / businesses and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, etc.
-* Techniques, architectures, infrastructures, pipelines, frameworks, API design to create better predictive / intelligent applications (from embedded to web-scale)
-* Tools to democratize ML and make it easier to build into products
-* Needs, trends, opportunities in this space
-* Tutorials that teach a specific and valuable skill
+- Exciting and innovative ML use cases
+- Challenges and lessons learnt in integrating ML into various applications / processes / businesses and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, etc.
+- Techniques, architectures, infrastructures, pipelines, frameworks, API design to create better predictive / intelligent applications (from embedded to web-scale)
+- Tools to democratize ML and make it easier to build into products
+- Needs, trends, opportunities in this space
+- Tutorials that teach a specific and valuable skill
 
 We welcome practical presentations on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking.
 
@@ -89,18 +76,18 @@ We believe that great presentations should be practical and focused. For instanc
 
 A few more remarks:
 
-* Screenshots and live demos are very much appreciated. They help make your presentation more concrete and engaging.
-* If your presentation is centered on a particular commercial tool or product, we may only accept it as a sponsored presentation. See the FAQ for details and don't hesitate to contact us directly.
-* Here are examples of some of the most popular presentations at previous conferences:
-	* Business and introductory presentations:
-		* [Big Wins with Small Data](http://lanyrd.com/2015/papis2015/sdpcdh/)
-		* [Business reasons for automating decisions](https://www.youtube.com/watch?v=fKQJAu6k7pQ)
-	* Advanced presentations:
-		* [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
-		* [Protocols and Structures for Inference (research paper)](http://jmlr.org/proceedings/papers/v50/montgomery15.pdf)
-	* Hands-on technical presentations:
-		* [PredictionIO tutorial](https://www.youtube.com/watch?v=zeGnILRIdUk&list=PLex5Agivp-gh3tYo9yCY9Dgcj3nXYol1k&index=13)
-		* [End to End Machine Learning with MLDB.ai (sponsored)](https://twitter.com/mldbai/status/786230824727445504)
+- Screenshots and live demos are very much appreciated. They help make your presentation more concrete and engaging.
+- If your presentation is centered on a particular commercial tool or product, we may only accept it as a sponsored presentation. See the FAQ for details and don't hesitate to contact us directly.
+- Here are examples of some of the most popular presentations at previous conferences:
+  - Business and introductory presentations:
+    - [Big Wins with Small Data](http://lanyrd.com/2015/papis2015/sdpcdh/)
+    - [Business reasons for automating decisions](https://www.youtube.com/watch?v=fKQJAu6k7pQ)
+  - Advanced presentations:
+    - [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
+    - [Protocols and Structures for Inference (research paper)](http://jmlr.org/proceedings/papers/v50/montgomery15.pdf)
+  - Hands-on technical presentations:
+    - [PredictionIO tutorial](https://www.youtube.com/watch?v=zeGnILRIdUk&list=PLex5Agivp-gh3tYo9yCY9Dgcj3nXYol1k&index=13)
+    - [End to End Machine Learning with MLDB.ai (sponsored)](https://twitter.com/mldbai/status/786230824727445504)
 
 
 <a name="proposal-form" id="proposal-form"></a>
@@ -120,14 +107,14 @@ Only reviewers will see this. Please take care here to refrain from identifying 
 
 Details is a good place to go into more depth about what you’ll cover and to be as specific as possible on the content of your presentation. We invite you to...
 
-* include an outline
-* reveal the secret sauce of your presentation
-* explain any twists you’ll include that may not be evident in the title or abstract.
+- include an outline
+- reveal the secret sauce of your presentation
+- explain any twists you’ll include that may not be evident in the title or abstract.
 
 Please also let us know... 
 
-* if you intend to include a live demo or live coding (and intended duration)
-* the main audience for your talk (see "About the conference" section above).
+- if you intend to include a live demo or live coding (and intended duration)
+- the main audience for your talk (see "About the conference" section above).
 
 ### Pitch
 
@@ -142,9 +129,9 @@ Please assign multiple tags to help us identify how technical your presentation 
 Attaching a report or paper to your proposal is optional but it's a huge plus for getting it accepted. We will also publish final accepted papers in our proceedings in the Journal of Machine Learning Research (see our [2016](http://proceedings.mlr.press/v67/) and [2015 proceedings](http://jmlr.org/proceedings/papers/v50/) as an example).
 
 - In addition to submitting the proposal form, please also send one of the following (anonymized) documents via this [upload form](https://papisdotio.wufoo.com/forms/xst26ab1dgwqty/), in PDF format and using the [JMLR style](http://www.jmlr.org/format/format.html):
-	- an extended abstract of 2 pages or more (references and comparisons to related work should be included, but details of implementation can be omitted)
-	- OR a short paper of 4 pages
-	- OR a long paper of up to 8 pages
+  - an extended abstract of 2 pages or more (references and comparisons to related work should be included, but details of implementation can be omitted)
+  - OR a short paper of 4 pages
+  - OR a long paper of up to 8 pages
 - Please make sure the PDF file has the same name as your proposal title.
 
 ### Thanks for submitting a proposal to PAPIs '17! Good luck!
