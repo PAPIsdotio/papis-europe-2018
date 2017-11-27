@@ -47,19 +47,17 @@ PAPIs is the 1st series of international conferences dedicated to real-world Mac
 
 ## 1. What we're looking for
 
-Presentations at PAPIs are 20-minute long, plus 5 minutes for Q&A. It may seem like a short time, but it allows for dynamic and focused talks that keep the audience engaged.
+Presentations at PAPIs are 20-minute long, plus 5 minutes for Q&A. It may seem like a short time, but it allows for dynamic and focused talks that keep the audience engaged. We'd like to hear about:
 
-We'd like to hear about:
-
+- Challenges and lessons learnt in integrating ML into various applications/products/processes and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, ethics, etc.
+- Failure stories — you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system!
+- Techniques, architectures, infrastructures, pipelines, frameworks, APIs to create or improve intelligent applications (from embedded to web-scale)
+- Design of ML-powered products
+- Tools to make it easier to integrate ML into real-world products/applications (with demos)
 - Exciting and innovative ML use cases
-- Challenges and lessons learnt in integrating ML into various applications / processes / businesses and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, etc.
-- Techniques, architectures, infrastructures, pipelines, frameworks, API design to create better predictive / intelligent applications (from embedded to web-scale)
-- Tools to democratize ML and make it easier to build into products
-- Needs, trends, opportunities in this space
-- Tutorials that teach a specific and valuable skill
+- Hands-on tutorials that teach a specific and valuable skill
 
-We welcome practical presentations on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking.
-
+We welcome technical and non-technical presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking.
 
 ## 2. How do I write a good proposal?
 
