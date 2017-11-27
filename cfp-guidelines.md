@@ -2,17 +2,17 @@
 
 PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, São Paulo, and PAPIs is now coming to London! It brings together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/europe](http://www.papis.io/europe).
 
-## Key dates
+## 1. Key dates
 
-1. January 7 (midnight, GMT): Call for Proposals closes
-1. January 22: Notifications of acceptance/rejection due
-1. April 5-6: Conference takes place in London.
+- January 7 (midnight, GMT): Call for Proposals closes
+- January 22: Notifications of acceptance/rejection due
+- April 5-6: Conference takes place in London.
 
 This year we'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
 
-## [Sign up here to get updates!](http://www.papis.io/#updates)
+### [Sign up here to get updates!](http://www.papis.io/#updates)
 
-## 1. What we're looking for
+## 2. What we're looking for
 
 We welcome technical and non-technical presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We'd like to hear about:
 
@@ -28,18 +28,18 @@ We’re looking for a diverse and creative line-up of speakers, preferably with 
 
 _Note: we also have a very limited number of sponsored speaking slots — [contact us](mailto:sponsoring@papis.io) for more information on how to secure one._
 
-## 2. How to craft a good proposal
+## 3. How to craft a good proposal
 
-We will be receiving several proposals covering the same topics. They will be evaluated by our Program Committee on the basis of their novelty and/or significance and/or clarity of presentation. Reading the following will help you craft a proposal that stands out.
+We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading the following will help you craft a proposal that stands out.
 
-Attendees have different levels of experience — from totally new to very experienced. Start by identifying your main audience and the level of your talk. Your presentation should either directly help them, or inspire/inform them about something they don’t already know. The core value to our attendees of what you’re presenting should be clearly stated in your proposal. What will they be able to do after they see your presentation that they can’t do now?
+Attendees have different levels of experience — from totally new to very experienced. **Start by identifying your main audience and the level of your talk**. Your presentation should either directly help them, or inspire/inform them about something they don’t already know. The core value to our attendees of what you’re presenting should be clearly stated in your proposal. What will they be able to do after they see your presentation that they can’t do now?
 
-We believe that great presentations should be practical and focused. For instance, instead of presenting something general or showing a portfolio of things you / your company have done, it’s better to show one specific, unique thing in enough detail.
+We believe that **great presentations should be practical and focused**. For instance, instead of presenting something general or showing a portfolio of things you / your company have done, it’s better to show one specific, unique thing in enough detail.
 
 A few more remarks:
 
-- Screenshots and live demos are very much appreciated. They help make your presentation more concrete and engaging.
-- If your presentation is centered on a particular commercial tool or product, we may only accept it as a sponsored presentation. See the FAQ for details and don't hesitate to contact us directly.
+- Screenshots and live demos can be very useful to make your presentation more concrete and engaging.
+- If your presentation is centered on a particular commercial tool or product, we may only accept it as a sponsored presentation.
 - Here are examples of some of the most popular presentations at previous conferences:
   - Business and introductory presentations:
     - [Big Wins with Small Data](http://lanyrd.com/2015/papis2015/sdpcdh/)
@@ -51,9 +51,9 @@ A few more remarks:
     - [PredictionIO tutorial](https://www.youtube.com/watch?v=zeGnILRIdUk&list=PLex5Agivp-gh3tYo9yCY9Dgcj3nXYol1k&index=13)
     - [End to End Machine Learning with MLDB.ai (sponsored)](https://twitter.com/mldbai/status/786230824727445504)
 
-## 3. How to submit your proposal
+## 4. How to submit your proposal
 
-Our proposal form has two fields that attendees will see on the program (title and abstract), and two fields that only reviewers will see (details and pitch). Please also use tags for reviewers to identify the type of proposal you’re submitting. It is possible to submit several proposals through our CfP application. Note that we have a policy of not having more than 2 talks from speakers from the same company, in an effort to promote different approaches to ML applications at the conference.
+Our proposal form has two fields that attendees will see on the program (Title and Abstract), and two fields that only reviewers will see (Details and Pitch). Please also use tags for reviewers to identify the type of proposal you’re submitting. It is possible to submit several proposals through our CfP application. Note that we have a policy of not having more than 2 talks from speakers from the same company, in an effort to promote different approaches to ML applications at the conference.
 
 ### Title, Abstract & Bio
 
@@ -84,15 +84,17 @@ Only reviewers will see this. Pitch is a good place to tell reviewers why PAPIs 
 
 Please assign multiple tags to help us identify how technical your presentation will be (Non-Technical, Somewhat Technical, Mostly Technical) and the required ML knowledge (Beginner, Intermediate, Advanced).
 
-### Industrial experience reports, research papers and review papers
+### Industrial experience reports, technical, review and research papers
 
-Attaching a report or paper to your proposal is optional but it's a huge plus for getting it accepted. We will also publish final accepted papers in our proceedings in the Journal of Machine Learning Research (see our [2016](http://proceedings.mlr.press/v67/) and [2015 proceedings](http://proceedings.mlr.press/v50/) as an example).
+Attaching a report or paper to your proposal is optional but it's highly appreciated. We will publish final accepted papers in Proceedings of Machine Learning Research (see our [2016](http://proceedings.mlr.press/v67/) and [2015 proceedings](http://proceedings.mlr.press/v50/) as an example). We are not limited to research papers but also welcome industrial experience reports, technical papers, and review papers.
 
 - In addition to submitting the proposal form, please also send one of the following (anonymized) documents via this [upload form](https://papisdotio.wufoo.com/forms/xst26ab1dgwqty/), in PDF format and using the [JMLR style](http://www.jmlr.org/format/format.html):
   - an extended abstract of 2 pages or more (references and comparisons to related work should be included, but details of implementation can be omitted)
   - OR a short paper of 4 pages
   - OR a long paper of up to 8 pages
 - Please make sure the PDF file has the same name as your proposal title.
+
+Publishing a paper requires some effort but it is another great way to contribute to your reputation and that of your company.
 
 ## We’re looking forward to receiving your best proposals!
 
