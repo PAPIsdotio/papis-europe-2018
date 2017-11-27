@@ -94,7 +94,7 @@ Attaching a report or paper to your proposal is optional but it's highly appreci
   - OR a long paper of up to 8 pages
 - Please make sure the PDF file has the same name as your proposal title.
 
-Publishing a paper requires some effort but it is another great way to contribute to your reputation and that of your company.
+Publishing a paper requires some effort but it is another great way to contribute to your reputation and that of your company. Previous authors include teams at Microsoft, Uber Engineering, Upwork, Dataiku, BigML...
 
 ## We’re looking forward to receiving your best proposals!
 
