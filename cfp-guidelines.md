@@ -6,25 +6,25 @@ Real-World Machine Learning Stories
 
 ## Key dates
 
+TODO update dates!
+
 1. July 9 (midnight, Boston time): Call for Proposals closes
 1. September 24: Lightning Talk proposal deadline
 1. October 5 (midnight): AI Startup Battle application deadline
 1. October 10: Selection of startups due
-1. October 24-25: Conference takes place in London
-
-Our main call for proposals ended on July 9 but we'll be accepting late proposals, as well as Lighting Talk proposals, until September 24.
-
-If you have not heard about the status of your submission, please [contact us](mailto:cfp-europe@papis.mailclark.ai).
+1. October 24-25: Conference takes place in London.
 
 ## [Sign up here to get updates!](http://www.papis.io/#updates)
 
 ## Overview
 
-We are calling for proposals of non-commercial presentations, contributed by the community. Proposals are peer reviewed by our Program Committee.
+We are calling for proposals of non-commercial presentations, contributed by the community. Proposals are peer-reviewed by our Program Committee (with a "blind" first-round, i.e. without seeing who the author is).
 
-This year we are specifically aiming to **increase the number of female speakers from 23% last year to a target of 33%**. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted.
+We'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted.
 
-Please read the guidelines below and click on the Submit button on the right to submit your proposals.
+**Please read these guidelines all the way through*- for the best chance of having your proposal selected. If you have questions or concerns about anything you see here, or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-europe-2018@papis.mailclark.ai).
+
+We’re looking forward to receiving your best proposals!
 
 **Call for Sponsors** (please note that this is separate from the Call for Proposals): You can secure a speaking slot and a booth in the breakout area by becoming a sponsor. Please see [papis.io/sponsoring](http://www.papis.io/sponsoring) for more information or contact us at [sponsoring@papis.io](mailto:sponsoring@papis.io).
 
@@ -34,20 +34,16 @@ Please read the guidelines below and click on the Submit button on the right to 
 
 Table of contents:
 
-- [About the conference
-- [What we're looking for
-- [How do I write a good proposal?
-- [Filling in the proposal form
+- About the conference
+- What we're looking for
+- How do I write a good proposal?
+- Filling in the proposal form
 
 ## About the conference
 
-PAPIs '17 is the 4th International Conference on Predictive Applications and APIs, returning to Boston on October 24-25, 2017 and featuring technical presentations, business talks, hands-on tutorials and demos (tools, use cases).
+PAPIs is the 1st series of international conferences dedicated to real-world Machine Learning applications (with [previous editions](http://papis.io/past-events) in Boston, Sydney, Barcelona, Paris, Valencia, and São Paulo). They bring together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications.
 
-PAPIs is a series of independent community conferences, dedicated to the application of ML to real-world problems to create intelligent applications. The audience is a mix of developers, software engineers, data scientists, machine learning engineers, researchers, decision makers, managers, strategists and innovators. [Previous PAPIs conferences](http://papis.io/past-events) took place in Boston, Sydney, Barcelona, Paris and Valencia.
-
-> “PAPIs is really about bringing machine learning into use” — Danny Lange, VP of AI and ML at Unity
-
-**Please read these guidelines all the way through*- for the best chance of having your proposal selected. If you have questions or concerns about anything you see here, please don’t hesitate to email us at [cfp-boston@papis.mailclark.ai](mailto:cfp-boston@papis.mailclark.ai). We’re looking forward to receiving your best proposals!
+> “PAPIs is really about bringing Machine Learning into use” — Danny Lange, VP of AI and ML at Unity
 
 ## 1. What we're looking for
 
@@ -65,7 +61,6 @@ We'd like to hear about:
 We welcome practical presentations on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking.
 
 
-<a name="how"></a>
 ## 2. How do I write a good proposal?
 
 We will be receiving several proposals covering the same topics. They will be evaluated by our Program Committee on the basis of their novelty and/or significance and/or clarity of presentation. Reading the following will help you craft a proposal that stands out.
@@ -89,8 +84,6 @@ A few more remarks:
     - [PredictionIO tutorial](https://www.youtube.com/watch?v=zeGnILRIdUk&list=PLex5Agivp-gh3tYo9yCY9Dgcj3nXYol1k&index=13)
     - [End to End Machine Learning with MLDB.ai (sponsored)](https://twitter.com/mldbai/status/786230824727445504)
 
-
-<a name="proposal-form" id="proposal-form"></a>
 ## 3. Filling in the proposal form
 
 Our proposal form has two fields that attendees will see on the program (title and abstract), and two fields that only reviewers will see (details and pitch). Please also use tags for reviewers to identify the type of proposal you’re submitting. It is possible to submit several proposals through our CfP application. Note that we have a policy of not having more than 2 talks from speakers from the same company, in an effort to promote different approaches to ML applications at the conference.
@@ -111,7 +104,7 @@ Details is a good place to go into more depth about what you’ll cover and to b
 - reveal the secret sauce of your presentation
 - explain any twists you’ll include that may not be evident in the title or abstract.
 
-Please also let us know... 
+Please also let us know...
 
 - if you intend to include a live demo or live coding (and intended duration)
 - the main audience for your talk (see "About the conference" section above).
@@ -126,7 +119,7 @@ Please assign multiple tags to help us identify how technical your presentation 
 
 ### Industrial experience reports, research papers and review papers
 
-Attaching a report or paper to your proposal is optional but it's a huge plus for getting it accepted. We will also publish final accepted papers in our proceedings in the Journal of Machine Learning Research (see our [2016](http://proceedings.mlr.press/v67/) and [2015 proceedings](http://jmlr.org/proceedings/papers/v50/) as an example).
+Attaching a report or paper to your proposal is optional but it's a huge plus for getting it accepted. We will also publish final accepted papers in our proceedings in the Journal of Machine Learning Research (see our [2016](http://proceedings.mlr.press/v67/) and [2015 proceedings](http://proceedings.mlr.press/v50/) as an example).
 
 - In addition to submitting the proposal form, please also send one of the following (anonymized) documents via this [upload form](https://papisdotio.wufoo.com/forms/xst26ab1dgwqty/), in PDF format and using the [JMLR style](http://www.jmlr.org/format/format.html):
   - an extended abstract of 2 pages or more (references and comparisons to related work should be included, but details of implementation can be omitted)
@@ -134,6 +127,6 @@ Attaching a report or paper to your proposal is optional but it's a huge plus fo
   - OR a long paper of up to 8 pages
 - Please make sure the PDF file has the same name as your proposal title.
 
-### Thanks for submitting a proposal to PAPIs '17! Good luck!
+### Thanks for submitting a proposal to PAPIs Europe! Good luck!
 
 **Acknowledgement**: These guidelines were partly inspired from [railsconf](http://railsconf.com/). This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). Many thanks to [Joan Capdevila Pujol](http://personals.ac.upc.edu/jc/) for his help in setting it up!
