@@ -4,9 +4,9 @@ PAPIs is the 1st series of international conferences dedicated to **real-world M
 
 ## Key dates
 
-- January 21 (midnight, GMT): Call for Proposals closes
-- February 5: Notifications of acceptance/rejection due
-- April 5-6: Conference takes place in London
+- **January 21** (23:59 GMT): Call for Proposals closes
+- **February 5**: Notifications of acceptance/rejection due
+- **April 5-6**: Conference takes place in London
 
 This year we'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
 
@@ -24,11 +24,11 @@ We welcome technical and non-technical presentations with a practical mindset, o
 - Exciting and innovative ML use cases
 - Hands-on tutorials that teach a specific and valuable skill
 
-We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of 20' long,  **non-commercial** presentations.
+We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long,  non-commercial presentations**. _(Note: we also have a very limited number of sponsored speaking slots — [contact us](mailto:sponsoring@papis.io) for more information on how to secure one.)_
 
-_(Note: we also have a very limited number of sponsored speaking slots — [contact us](mailto:sponsoring@papis.io) for more information on how to secure one.)_
+We welcome technical papers, industrial experience reports, review papers and research papers (not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 
-## Tips
+## Tips and rules
 
 You can tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
 
