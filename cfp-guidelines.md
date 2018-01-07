@@ -14,6 +14,8 @@ This year we'd like to **strongly encourage women to submit proposals**. As a co
 
 ## What we're looking for
 
+### Presentations
+
 We welcome technical and non-technical presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We'd like to hear about:
 
 - Challenges and lessons learnt in integrating ML into various applications/products/processes and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, ethics, etc.
@@ -25,6 +27,8 @@ We welcome technical and non-technical presentations with a practical mindset, o
 - Hands-on tutorials that teach a specific and valuable skill
 
 We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long,  non-commercial presentations**. _(Note: we also have a very limited number of sponsored speaking slots — [contact us](mailto:sponsoring@papis.io) for more information on how to secure one.)_
+
+### Papers
 
 We welcome technical papers, industrial experience reports, review papers and research papers (not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
 
