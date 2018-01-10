@@ -30,11 +30,15 @@ We’re looking for a diverse and creative line-up of speakers, preferably with 
 
 ### Papers
 
-We welcome technical papers, industrial experience reports, review papers and research papers (not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+We welcome technical papers, industrial experience reports, review papers and research papers. They should be submitted along with presentation proposals (papers are not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+
+### Startups
+
+PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury. We're looking for new startups that have AI / ML at their core. Selected startups will be able to present and exhibit at the conference. Applications should be made via a [separate platform](https://docs.google.com/forms/d/e/1FAIpQLScnnDQmDfxLFQBMnKRMlIxXQQZFjBKquhVsexgWxtEMxdishQ/viewform).
 
 ## Tips and rules
 
-You can tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
+You can find tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
 
 ## We’re looking forward to receiving your best proposals!
 
