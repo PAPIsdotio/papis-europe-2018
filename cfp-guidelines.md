@@ -44,6 +44,27 @@ You can find tips on how to craft a good proposal, how to submit it, and some ru
 
 If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-europe-2018@papis.mailclark.ai).
 
+### The Organizing Committee
+
+Program Chairs:
+
+- Alastair Moore, UCL
+- Florian Douetteau, Dataiku
+
+Reviewers: 
+
+- Matthew Higgs, Glasgow AI
+- Jorie Koster-Hale, Dataiku
+- Pierre Gutierrez, Scortex
+- Daniel Nichol, Institute of Cancer Research - University of London
+- David Alejandro Perdomo Meza, Football Whispers
+- Charles Parker, BigML
+- Felipe Leno da Silva, Universidade São Paulo
+
+General Chair:
+
+- Louis Dorard, UCL
+
 ### Acknowledgements
 
 This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). Many thanks to [Joan Capdevila Pujol](http://personals.ac.upc.edu/jc/) for his help in setting it up!
