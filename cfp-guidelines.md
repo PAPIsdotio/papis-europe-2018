@@ -60,6 +60,16 @@ Reviewers:
 - David Alejandro Perdomo Meza, Football Whispers
 - Charles Parker, BigML
 - Felipe Leno da Silva, Universidade São Paulo
+- Vitor Falleiros, Emprego Ligado
+- Ivan Marin, Daitan Group
+- Leonardo Noleto, ERCOM
+- Vincent Van Steenbergen	
+- Harlan Harris, WayUp
+- Claire Hardgrove, IBM
+- Lia Bifano, EPFL
+- Alex Casalboni, Cloud Academy
+- Nikolas Pontikos, UCL
+- Ruben Glatt, Universidade São Paulo
 
 General Chair:
 
