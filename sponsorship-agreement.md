@@ -89,7 +89,7 @@ In the event any dispute arises in connection with this Agreement between both p
 
 Please note that Sponsorship opportunities are in limited number and therefore are subject to availability.
 
-<iframe src="https://louisdorard.github.io/papis-london-2018/sponsorship-tiers.html" style="border:none;" width="100%">
+<iframe src="https://papisdotio.github.io/papis-london-2018/sponsorship-tiers.html" style="border:none;" width="100%">
 </iframe>
 
 - **Speaking slot**:
@@ -123,7 +123,7 @@ Please note that Sponsorship opportunities are in limited number and therefore a
 
 **Amounts:**
 
-The amounts below are tax-free. Early-stage startups of less than 2 years who have raised less than US$ 1M in funding can get a discount of 50% on the amounts below (limited availability). Startups of less than 4 years who have raised less than US$ 25M in funding can get a discount of 30% on the amounts below (limited availability).
+The amounts below are tax-free. Early-stage startups of less than 2 years who have raised less than 1M USD in funding can get a discount of 50% on the amounts below (limited availability). Startups of less than 4 years who have raised less than 25M USD in funding can get a discount of 30% on the amounts below (limited availability).
 
 - Gold sponsorship: 7500 GBP
 - Silver sponsorship: 3750 GBP
