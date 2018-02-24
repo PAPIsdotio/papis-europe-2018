@@ -19,31 +19,32 @@ Each section contains theory and hands-on demos/exercises (where students can re
 ### Introduction to Machine Learning
 
 - Key ML concepts and terminology
-- Possibilities and example use cases
-- [Hands-on] Formalizing your own ML problem
+- Formalizing supervised learning problems: classification and regression
+- Possibilities and example use cases (web applications, mobile, enterprise data science)
 
 ### Model creation
 
 - Intuitions behind learning algorithms: Nearest Neighbors and Decision Trees
 - [Hands-on] Introduction to Jupyter notebooks
-- [Hands-on] Creating and interpreting Decision Trees with BigML (ML-as-a-Service tool) and scikit-learn (open source ML library)
+- [Hands-on] Creating and interpreting Decision Trees with scikit-learn (open source ML library) and BigML (ML-as-a-Service tool), on classification and regression datasets
 
 ### Evaluation
 
 - Performance criteria for ML models and evaluation procedure
 - Aggregate metrics for regression (MAE, MSE, R-squared, MAPE) and classification (accuracy, confusion and cost matrices)
-- [Hands-on] Evaluating models with BigML and scikit-learn
+- [Hands-on] Evaluating models with Python, scikit-learn and BigML on previous datasets
 - [Hands-on] Improving prediction accuracy with ensembles of Decision Trees: Random Forests
+- [Hands-on] Embracing randomness with cross-validation
 
-### Operationalization
+### Deployment
 
-- [Hands-on] Demo of cloud ML APIs: Indico and BigML
-- [Hands-on] Deploying your own Python models as APIs with Microsoft Azure ML or Flask (open source library)
-- Critical overview of open source and cloud ML products and deployment solutions
+- [Hands-on] Why and how to use REST APIs for ML use in production
+- [Hands-on] Deploying your own Python models as APIs with the [Flask](http://flask.pocoo.org/) library
+- [Hands-on] Using your API to fill in missing values in a spreadsheet program
 
 ### Conclusions
 
-- Key take-aways
+- Recap of key take-aways
 - Resources to go further
 
 ## Instructor and testimonials
