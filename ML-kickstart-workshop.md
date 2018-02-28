@@ -2,13 +2,13 @@
 
 ## Summary
 
-Gain the skills to create ML models and use them in your applications, with open source libraries and cloud platforms. In this workshop, we'll demystify Machine Learning, you'll gain an understanding of its possibilities and limitations, and how to put it to work on real problems. You'll learn to create, evaluate and deploy ML models. We'll adopt a top-down, results-first and experimentation-driven approach.
+Gain the skills to create ML models and use them in your applications, with open source libraries and cloud platforms. In this workshop, we'll demystify Machine Learning and you'll gain an understanding of its possibilities and limitations. You'll learn to create, evaluate and deploy ML models. We'll adopt a top-down, results-first and experimentation-driven approach.
 
 Registration at [papis.io/europe](http://www.papis.io/europe)
 
 ## Learning objectives
 
-- Understand the possibilities and limitations of ML, and know how to formulate your own ML problem
+- Understand the possibilities and limitations of ML
 - Understand the main ideas behind the most widely used learning algorithms in the industry: decision trees and random forests
 - Know how to build predictive models from data, analyze their performance and deploy to production with APIs.
 
