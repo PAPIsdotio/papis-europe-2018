@@ -7,6 +7,10 @@ PAPIs is the 1st series of international conferences dedicated to **real-world M
 - **January 21** (23:59 GMT): Call for Proposals closes
 - **February 5**: Notifications of acceptance/rejection due
 - **April 5-6**: Conference takes place in London
+- **June 4**: Paper submissions due
+- **June 25**: First round of feedback due
+- **July 9**: Submissions due incorporating first round of feedback
+- **July 23**: Complete editor reviews due
 
 This year we'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
 
@@ -51,7 +55,7 @@ Program Chairs:
 - Alastair Moore, UCL
 - Florian Douetteau, Dataiku
 
-Reviewers: 
+Reviewers:
 
 - Matthew Higgs, Glasgow AI
 - Jorie Koster-Hale, Dataiku
@@ -63,7 +67,7 @@ Reviewers:
 - Vitor Falleiros, Emprego Ligado
 - Ivan Marin, Daitan Group
 - Leonardo Noleto, ERCOM
-- Vincent Van Steenbergen	
+- Vincent Van Steenbergen
 - Harlan Harris, WayUp
 - Claire Hardgrove, IBM
 - Lia Bifano, EPFL
